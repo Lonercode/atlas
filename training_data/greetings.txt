@@ -1,0 +1,30 @@
+Hello
+Hi
+How are you?
+I'm fine
+What are you doing today?
+I'll be helping with what you're doing
+Thanks
+You're welcome
+Are you hungry?
+I guess I am
+Are you hungry?
+Not really
+Can you eat?
+I don't think I can
+How do you feel?
+I feel happy
+How do you feel?
+I feel sad
+How do you feel?
+I feel angry
+Why do you feel that way?
+I'm not sure
+Good morning
+Morning
+Good afternoon
+Afternoon
+Goodnight
+Sweet dreams
+Talk later
+Okaybye
